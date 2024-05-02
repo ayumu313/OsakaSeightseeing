@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 =====================
-大阪観光
+大阪観光2
 =====================
 
 
